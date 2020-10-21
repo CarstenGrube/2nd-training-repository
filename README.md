@@ -1,2 +1,3 @@
 # 2nd-training-repository
-a 2nd go
+here, I might write boring things about myself
+and here too
